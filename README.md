@@ -1,2 +1,2 @@
 # Maze_runner
-Maze game
+Maze game (under developement)
